@@ -44,6 +44,10 @@ button:hover {
      gap: 15px;
 }
 
+#player-btns button {
+     font-size: 20px;
+}
+
 .btn {
      width: 100px;
 }
@@ -53,3 +57,4 @@ button:hover {
      font-weight: bold;
      color: #333;
 }
+
